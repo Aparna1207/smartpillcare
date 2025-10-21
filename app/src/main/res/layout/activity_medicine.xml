@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etMedName"
+        android:autofillHints=""
+        android:hint="@string/medicine_name"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etDosage"
+        android:autofillHints=""
+        android:hint="@string/dosage"
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etHour"
+        android:autofillHints=""
+        android:hint="@string/hour_24h"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etMinute"
+        android:autofillHints=""
+        android:hint="@string/minute"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etStock"
+        android:autofillHints=""
+        android:hint="@string/stock_count"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etRefill"
+        android:autofillHints=""
+        android:hint="@string/refill_alert"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- ✅ Mark as Taken Button -->
+    <Button
+        android:id="@+id/btnSaveMed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/save_medicine" />
+
+    <Button
+        android:id="@+id/btnMarkTaken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mark_as_taken"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#F8BBD0</color>
+
+
+    <color name="background">#F7F9FB</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="pink_toolbar">#E91E63</color> <!-- Bright Pink -->
+</resources>

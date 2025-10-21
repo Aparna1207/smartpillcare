@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753196414283",
+    "project_id": "smartpillcare",
+    "storage_bucket": "smartpillcare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753196414283:android:dad014cffb0e6bf07be4ce",
+        "android_client_info": {
+          "package_name": "com.example.smartpillcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCln917NDgevBptYk8iEOC6T2esg_Enq0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

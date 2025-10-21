@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnMedicine" type="id" />
+    <item name="btnAppointment" type="id" />
+    <item name="btnPatient" type="id" />
+    <item name="etName" type="id" />
+    <item name="etContact" type="id" />
+    <item name="etAge" type="id" />
+    <item name="etCondition" type="id" />
+    <item name="btnSavePatient" type="id" />
+    <item name="etMedName" type="id" />
+    <item name="etDosage" type="id" />
+    <item name="etHour" type="id" />
+    <item name="etRefill" type="id" />
+    <item name="btnSaveMed" type="id" />
+    <item name="etMinute" type="id" />
+    <item name="etStock" type="id" />
+    <item name="btnSaveApp" type="id" />
+    <item name="etDate" type="id" />
+    <item name="etDoctor" type="id" />
+    <item name="etNotes" type="id" />
+    <item name="etTime" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="btnSignup" type="id" />
+    <item name="btnGetStarted" type="id" />
+    <item name="lottieLogin" type="id" />
+    <item name="langGroup" type="id" />
+    <item name="btnSmsPerm" type="id" />
+    <item name="tvSettings" type="id" />
+    <item name="tvProfile" type="id" />
+    <item name="loadingSpinner" type="id" />
+    <item name="chatScroll" type="id" />
+    <item name="chatLayout" type="id" />
+    <item name="inputMessage" type="id" />
+    <item name="btnSend" type="id" />
+
+</resources>
