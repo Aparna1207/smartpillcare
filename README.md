@@ -46,7 +46,7 @@ ______________________________________________
 | Authentication | Firebase Authentication    |
 | AI             | Gemini API                 |
 | Version Control| Git & GitHub               |
-|________________|____________________________|
+|____________________________________________ |
 
 ## 📱 Application Workflow
 
@@ -102,30 +102,6 @@ Appointments
 - Smartwatch integration.
 - Doctor-Patient Chat System.
 - AI-based medicine recommendation.
-
----
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Home Page
-- Medicine Reminder Page
-- Appointment Scheduler
-- AI Assistant Screen
-
-Example:
-
-```md
-## Screenshots
-
-### Login Screen
-![Login](screenshots/login.png)
-
-### Home Screen
-![Home](screenshots/home.png)
-```
 
 ---
 
